@@ -1,0 +1,8 @@
+C:\Users\ODEV-34\source\repos\basicCalculator using switch case\basicCalculator using switch case\bin\Debug\basicCalculator using switch case.exe.config
+C:\Users\ODEV-34\source\repos\basicCalculator using switch case\basicCalculator using switch case\bin\Debug\basicCalculator using switch case.exe
+C:\Users\ODEV-34\source\repos\basicCalculator using switch case\basicCalculator using switch case\bin\Debug\basicCalculator using switch case.pdb
+C:\Users\ODEV-34\source\repos\basicCalculator using switch case\basicCalculator using switch case\obj\Debug\basicCalculator using switch case.csproj.AssemblyReference.cache
+C:\Users\ODEV-34\source\repos\basicCalculator using switch case\basicCalculator using switch case\obj\Debug\basicCalculator using switch case.csproj.SuggestedBindingRedirects.cache
+C:\Users\ODEV-34\source\repos\basicCalculator using switch case\basicCalculator using switch case\obj\Debug\basicCalculator using switch case.csproj.CoreCompileInputs.cache
+C:\Users\ODEV-34\source\repos\basicCalculator using switch case\basicCalculator using switch case\obj\Debug\basicCalculator using switch case.exe
+C:\Users\ODEV-34\source\repos\basicCalculator using switch case\basicCalculator using switch case\obj\Debug\basicCalculator using switch case.pdb
